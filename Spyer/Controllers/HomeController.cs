@@ -6,7 +6,7 @@ namespace Spyer.Controllers
     {
         public ActionResult Index()
         {
-            return PartialView();
+            return PartialView();    
         }
 
         public ActionResult Info()
