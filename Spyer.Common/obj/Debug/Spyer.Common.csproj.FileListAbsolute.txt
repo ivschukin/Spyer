@@ -1,0 +1,5 @@
+D:\Projects\Spyer\Spyer.Common\bin\Debug\Spyer.Common.dll
+D:\Projects\Spyer\Spyer.Common\bin\Debug\Spyer.Common.pdb
+D:\Projects\Spyer\Spyer.Common\obj\Debug\Spyer.Common.csprojResolveAssemblyReference.cache
+D:\Projects\Spyer\Spyer.Common\obj\Debug\Spyer.Common.dll
+D:\Projects\Spyer\Spyer.Common\obj\Debug\Spyer.Common.pdb

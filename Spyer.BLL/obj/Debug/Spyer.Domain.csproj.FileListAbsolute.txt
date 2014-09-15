@@ -1,0 +1,14 @@
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Domain.dll
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Domain.pdb
+D:\Projects\Spyer\Spyer.BLL\obj\Debug\Spyer.Domain.csprojResolveAssemblyReference.cache
+D:\Projects\Spyer\Spyer.BLL\obj\Debug\Spyer.Domain.dll
+D:\Projects\Spyer\Spyer.BLL\obj\Debug\Spyer.Domain.pdb
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Common.dll
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Contracts.dll
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Dal.dll
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Dapper.dll
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Common.pdb
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Contracts.pdb
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Spyer.Dal.pdb
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Dapper.pdb
+D:\Projects\Spyer\Spyer.BLL\bin\Debug\Dapper.xml
