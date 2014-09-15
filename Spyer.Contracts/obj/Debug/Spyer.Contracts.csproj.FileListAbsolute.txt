@@ -1,5 +1,0 @@
-D:\Projects\Spyer\Spyer.Contracts\bin\Debug\Spyer.Contracts.dll
-D:\Projects\Spyer\Spyer.Contracts\bin\Debug\Spyer.Contracts.pdb
-D:\Projects\Spyer\Spyer.Contracts\obj\Debug\Spyer.Contracts.csprojResolveAssemblyReference.cache
-D:\Projects\Spyer\Spyer.Contracts\obj\Debug\Spyer.Contracts.dll
-D:\Projects\Spyer\Spyer.Contracts\obj\Debug\Spyer.Contracts.pdb
